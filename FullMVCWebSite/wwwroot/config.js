@@ -1,0 +1,3 @@
+﻿var AUTH0_DOMAIN = 'bryanstump.auth0.com';
+var AUTH0_CLIENT_ID = 'OPQ03M90RyAkQl6Z13YHl42y1WUSRe5w';
+var AUTH0_CLIENT_SECRET = 'YSdDnYq214-JoVgHwh0jJQxocW8_u6YZGwVr14BcV_n_GqUekHbLjYsNao5EGQHW';

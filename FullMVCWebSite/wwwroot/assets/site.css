@@ -1,0 +1,29 @@
+﻿.login-box {
+   padding:50px;
+}
+.login-container {
+    text-align: center;
+    border-width: 5px;
+    border: solid #000;
+    border-color: orangered;
+    /*border-color: #F58026;*/
+    padding: 15px;
+    margin: 25px;
+}
+.welcome-home-nickname {
+    /*text-align:center;*/
+    text-align:left;
+}
+.welcome-home-image {
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
+#header img{
+    width:100px;
+    margin-bottom: 10px;
+}
+body
+{
+    text-align:center;
+}
